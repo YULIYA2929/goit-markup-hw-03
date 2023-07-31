@@ -24,6 +24,21 @@ padding-right: 15px;
 margin: 0 auto;
 }
 
+.header {
+padding-top: 25px;
+padding-bottom: 25px;
+
+}
+
+.hero-wrap {
+  background-color: #2e2f42; 
+  border-radius: 30px; 
+  padding: 380px 40px 40px 40px;
+
+
+}
+
+
 
 .servise {
 font-family: inherit;
@@ -164,9 +179,7 @@ margin-bottom: 0;
   color: var(---ocean-cl);
 }
 
-.hero {
-    background-color: #2e2f42 
-}
+
 
 
 .hero-solution {
@@ -176,6 +189,7 @@ margin-bottom: 0;
   line-height: 1.07;
   letter-spacing: 0.02em;
   text-align: center;
+  max-width: 484px;
 }
 
 

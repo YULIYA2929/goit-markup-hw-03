@@ -382,6 +382,14 @@ text-transform: uppercase;
 
  .our-team-section {
   background-color: #FFFFFF;
+  width: calc((100% - 72px) / 4);
+  border-radius: 0px 0px 4px 4px;
+
+ }
+
+ .container-class {
+padding: 32px 0;
+
 
  }
 
@@ -392,10 +400,15 @@ text-transform: uppercase;
   letter-spacing: 0.02em;
   color: var(--navy-blue-modal-cl);
   margin-bottom: 8px;
+  text-align: center;
+ 
  }
+
+ 
 
  .section-class {
   background-color: #F4F4FD;
+  padding: 120px 0;
  }
 
  .team-strategy-our {
@@ -405,6 +418,7 @@ text-transform: uppercase;
   text-transform: capitalize;
   letter-spacing: 0.02em;
   color:  var(--navy-blue-modal-cl);
+  margin-bottom: 72px;
  }
 
  .strategy-hidden-item {

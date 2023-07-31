@@ -117,6 +117,7 @@ margin-bottom: 0;
   letter-spacing: 0.03em;
   text-transform: uppercase;
  color: var(--main-cl);
+ margin-right: 76px;
 }
 
 .advantages { 
@@ -124,6 +125,20 @@ padding-top: 50px;
 padding-bottom: 50px;
 }
  
+.menu-studio-web {
+  display: flex;
+  gap: 40px;
+}
+
+.menu-studio-link {
+padding: 24px 0;
+
+}
+
+.contact-adress-menu {
+  display: flex;
+  gap: 40px;
+}
 
 .header-logo-web:hover {
   color: var(--main-cl);

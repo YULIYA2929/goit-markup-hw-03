@@ -124,7 +124,6 @@ margin-bottom: 0;
 }
 
 .advantages { 
-
 padding: 120px 0;
 }
  
@@ -378,6 +377,7 @@ text-transform: uppercase;
   line-height: 1.2;
   letter-spacing: 0.02em;
   color: var(--navy-blue-modal-cl);
+  margin-bottom: 8px;
  }
 
  .section-class {

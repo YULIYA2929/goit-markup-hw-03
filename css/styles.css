@@ -367,16 +367,21 @@ margin-right: 76px;
     letter-spacing: 0.04em;
     color:var(--main-cl);
     background-color: #F4F4FD;
+    padding: 12px 24px;
+    border: 1px solid #e7e9fc;
+    border-radius: 4px;
     
   }
   
 .all-buton-class:hover {
   color: var(--white-cl);
   background-color: #404BBF;
+  border: 1px solid transparent;
 }
 .all-buton-class:focus {
   color: var(--white-cl);
   background-color: #404BBF;
+  border: 1px solid transparent;
 }
 
 
@@ -475,3 +480,14 @@ padding: 32px 0;
   gap: 24px;
   margin-bottom: 72px;
  }
+
+ .portfolio-container-wrap {
+  display: flex;
+  flex-wrap: wrap;
+  column-gap: 24px;
+  row-gap: 48px;
+
+}
+.portfolio-container-class{
+  width: calc((100% - 48px) / 3)
+}

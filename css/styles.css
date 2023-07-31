@@ -27,6 +27,7 @@ margin: 0 auto;
 .header {
 padding-top: 25px;
 padding-bottom: 25px;
+border-bottom: 1px solid #e7e9fc;
 
 }
 
@@ -366,4 +367,10 @@ text-transform: uppercase;
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: var(--slate-cl);
+ }
+
+
+ .images {
+display: block;
+
  }

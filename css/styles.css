@@ -124,12 +124,11 @@ margin-bottom: 0;
 }
 
 .advantages { 
-padding-top: 50px;
-padding-bottom: 50px;
-padding: 120px;
+
+padding: 120px 0;
 }
  
-.section-web  {
+.section-web {
 display: flex;
 gap: 24px;
 }

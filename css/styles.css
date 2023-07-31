@@ -273,6 +273,20 @@ padding: 24px 0;
   text-align: center;
   text-transform: capitalize;
   letter-spacing: 0.02em;
+  padding-bottom: 72px;
+}
+
+
+.section-link {
+display: flex;
+gap: 24px;
+
+
+}
+
+.section-img {
+  width: calc((100% - 48px) / 3);
+  
 }
 
 .advantages-list {
@@ -408,4 +422,8 @@ display: block;
 
  .hero-list-style  {
   padding: 188px 0;
+ }
+
+ .section-strategy {
+  padding-bottom: 120px;
  }

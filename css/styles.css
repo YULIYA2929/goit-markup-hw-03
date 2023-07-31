@@ -158,7 +158,8 @@ padding: 24px 0;
     font-size: 16px;
     font-weight: 500;
     line-height: 1.5;
-    letter-spacing: 0.02em
+    letter-spacing: 0.02em;
+    padding: 24px 0;
 }
 
 
@@ -171,6 +172,8 @@ padding: 24px 0;
 
 .contact-adress-list {
   font-style: normal;
+  display: flex;
+  gap: 40px;
 }
 
 
@@ -332,7 +335,7 @@ letter-spacing: 0.03em;
     text-transform: uppercase;
     display: inline-block;
     margin-bottom: 16px;
-    
+
   }
   .header-logo-content {
      color: var(--navy-blue-cl);
@@ -348,6 +351,7 @@ font-size: 18px;
 line-height: 1.17;
 letter-spacing: 0.03em;
 text-transform: uppercase;
+margin-right: 76px;
 }
 
   .header-studio-content:hover {
@@ -443,10 +447,7 @@ padding: 32px 0;
  }
 
 
- .images {
-display: block;
-
- }
+ 
 
 
  .hero-list-style  {

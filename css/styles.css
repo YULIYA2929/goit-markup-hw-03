@@ -245,7 +245,10 @@ padding-bottom: 50px;
   letter-spacing: 0.02em;
 }
 
+.advantages-list {
+padding: 0 18px;
 
+}
 
   .footer-item {
     background-color: #2e2f42;

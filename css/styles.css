@@ -126,8 +126,14 @@ margin-bottom: 0;
 .advantages { 
 padding-top: 50px;
 padding-bottom: 50px;
+padding: 120px;
 }
  
+.section-web  {
+display: flex;
+gap: 24px;
+}
+
 .menu-studio-web {
   display: flex;
   gap: 40px;
@@ -273,7 +279,7 @@ padding: 24px 0;
 
 .advantages-list {
 padding: 0 18px;
-
+width: calc((100% - 72px) / 4);
 }
 
   .footer-item {

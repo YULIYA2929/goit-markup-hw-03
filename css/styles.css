@@ -160,7 +160,7 @@ padding: 24px 0;
     line-height: 1.5;
     letter-spacing: 0.02em;
     padding: 24px 0;
-    
+
 }
 
 
@@ -462,4 +462,16 @@ padding: 32px 0;
  .hero {
   padding: 100px 0;
 
+ }
+
+ .portfolio-section {
+  padding-top: 96px;
+  padding-bottom: 120px;
+ }
+
+ .portfolio-container {
+  display: flex;
+  justify-content: center;
+  gap: 24px;
+  margin-bottom: 72px;
  }

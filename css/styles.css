@@ -329,7 +329,10 @@ letter-spacing: 0.03em;
     font-size: 18px; 
     line-height: 1.17;
     letter-spacing: 0.03em;  
-    text-transform: uppercase
+    text-transform: uppercase;
+    display: inline-block;
+    margin-bottom: 16px;
+    
   }
   .header-logo-content {
      color: var(--navy-blue-cl);
@@ -452,4 +455,9 @@ display: block;
 
  .section-strategy {
   padding-bottom: 120px;
+ }
+ 
+ .hero {
+  padding: 100px 0;
+
  }

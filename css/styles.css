@@ -112,7 +112,11 @@ margin-bottom: 0;
  color: var(--main-cl);
 }
 
-
+.advantages { 
+padding-top: 50px;
+padding-bottom: 50px;
+}
+ 
 
 .header-logo-web:hover {
   color: var(--main-cl);
@@ -207,7 +211,7 @@ margin-bottom: 0;
     font-weight: 500;
     line-height: 1.2;
     letter-spacing: 0.02em;
-    
+    margin: 18px;
   }
 
 

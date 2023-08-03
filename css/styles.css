@@ -22,7 +22,7 @@ max-width: 1166px;
 padding-left: 15px;
 padding-right: 15px;
 margin: 0 auto;
-display: flex;
+
 }
 
 .container-nav-list {
@@ -338,7 +338,7 @@ display: inline-block;
     display: inline-block;
 
 
-  }
+    }
   .header-logo-content {
      color: var(--navy-blue-cl);
   

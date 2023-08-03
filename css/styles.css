@@ -234,11 +234,7 @@ padding: 24px 0;
 
 
 
-.visually-hidden {
-  font-family: "Roboto";
-  font-weight: 500;
-  color: var(--navy-blue-cl);
-}
+
    
   .strategy-text-web {
     color: var(--navy-blue-cl);

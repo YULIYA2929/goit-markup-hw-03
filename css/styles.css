@@ -505,3 +505,7 @@ padding: 32px 0;
   margin-bottom: 8px;
   
 }
+
+.img {
+  display: block;
+}

@@ -336,7 +336,7 @@ display: inline-block;
     letter-spacing: 0.03em;  
     text-transform: uppercase;
     margin-bottom: 16px;
-    display: inline-block;
+    display: block;
 
 
     }

@@ -321,7 +321,7 @@ width: calc((100% - 72px) / 4);
 color: var(--cloud-cl) ;
 text-transform: uppercase;
 letter-spacing: 0.03em;
-
+display: inline-block;
   }
   .header-logo-studio:hover {
     color: var(--main-cl);

@@ -21,17 +21,14 @@ width: 1158px;
 padding-left: 15px;
 padding-right: 15px;
 margin: 0 auto;
-display: flex;
+
 
 
 }
 
-.container-header {
-width: 1158px;
-padding-left: 15px;
-padding-right: 15px;
-margin: 0 auto;
-
+.header-container {
+display: flex;
+align-items: centers;
 }
 
 .container-nav-list {
@@ -40,8 +37,6 @@ align-items: center;
 }
 
 .header {
-padding-top: 25px;
-padding-bottom: 25px;
 border-bottom: 1px solid #e7e9fc;
 
 }
@@ -54,11 +49,13 @@ border-bottom: 1px solid #e7e9fc;
 
 }
 
-
+.hero {
+  background-color: var(--navy-blue-cl) ;
+}
 
 .servise {
 font-family: inherit;
-background-color: #4D5AE5;
+background-color: var(--navy-blue-cl);
 font-size: 16px;
 color: var(--white-cl);
 font-weight: 500;
@@ -182,8 +179,8 @@ padding: 24px 0;
 
 .contact-adress-list {
   font-style: normal;
-  display: flex;
-  gap: 40px;
+  margin-left: auto;
+  
 }
 
 
@@ -311,17 +308,16 @@ gap: 24px;
 }
 
 .advantages-list {
-padding: 0 18px;
 width: calc((100% - 72px) / 4);
 }
 
   .footer-item {
-    background-color: #2e2f42;
-    color: var(--cloud-cl);
+  color: var(--cloud-cl);
     font-size: 16px;
-    font-weight: 800px;
+    font-weight: 800;
     letter-spacing: 0.02em;
     line-height: 1.5;
+    max-width: 264px;
   }
   .header-logo-studio {
 color: var(--cloud-cl) ;
@@ -469,7 +465,7 @@ padding: 32px 0;
 
  .hero-list-style  {
   padding: 188px 0;
-  background-color: white;
+  background-color: darkblue;
   margin: 0 auto;
  }
 

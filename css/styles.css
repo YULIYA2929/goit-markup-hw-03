@@ -55,7 +55,7 @@ border-bottom: 1px solid #e7e9fc;
 
 .servise {
 font-family: inherit;
-background-color: var(--navy-blue-cl);
+background-color: var(--main-cl);
 font-size: 16px;
 color: var(--white-cl);
 font-weight: 500;

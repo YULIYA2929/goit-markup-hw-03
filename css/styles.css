@@ -134,6 +134,7 @@ margin-bottom: 0;
   text-transform: uppercase;
  color: var(--main-cl);
  margin-right: 76px;
+ display: inline-block;
 }
 
 .advantages { 

@@ -503,6 +503,14 @@ padding: 32px 0;
   row-gap: 48px;
 
 }
+
+.portfolio-container-web {
+  display: flex;
+  justify-content: center;
+  gap: 24px;
+ margin-bottom: 72px;
+}
+
 .portfolio-container-class{
   width: calc((100% - 48px) / 3)
 }
